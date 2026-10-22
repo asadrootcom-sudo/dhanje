@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="دهان جدة DHANJE">
+
+  <!-- Logo Icon -->
+  <g transform="translate(7, 0) scale(0.64)">
+    <rect x="10" y="10" width="30" height="80" fill="#102A43"/>
+    <path
+      d="M40 10
+         L55 10
+         C80 10, 80 90, 55 90
+         L40 90
+         L40 70
+         L45 70
+         C60 70, 60 30, 45 30
+         L40 30
+         Z"
+      fill="#E67E22"/>
+  </g>
+</svg>
