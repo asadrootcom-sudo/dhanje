@@ -187,3 +187,7 @@ footer a:hover { color: var(--color-white); }
     .btn:hover, .hero-image-container:hover img, .project-img-wrap:hover img { transform: none; }
 }
 
+.logo-group { display: flex; align-items: center; gap: 8px; }
+.logo-icon { width: 36px; height: 36px; }
+.logo-ar { font-weight: 700; font-size: 1.2rem; color: var(--color-primary); }
+.logo-en { font-family: var(--font-en); font-weight: 800; font-size: 0.6rem; color: var(--color-secondary); letter-spacing: 2px; margin-top: -4px; }
