@@ -1,37 +1,28 @@
 
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
   <url>
     <loc>https://dhanje.com/</loc>
   </url>
-
   <url>
     <loc>https://dhanje.com/services.html</loc>
   </url>
-
   <url>
     <loc>https://dhanje.com/servicesA.html</loc>
   </url>
-
   <url>
     <loc>https://dhanje.com/servicesB.html</loc>
   </url>
-
   <url>
     <loc>https://dhanje.com/projects.html</loc>
   </url>
-
   <url>
     <loc>https://dhanje.com/about.html</loc>
   </url>
-
   <url>
     <loc>https://dhanje.com/faq.html</loc>
   </url>
-
   <url>
     <loc>https://dhanje.com/contact.html</loc>
   </url>
-
 </urlset>
